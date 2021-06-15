@@ -68,7 +68,7 @@ body{
     display: none;
 }
 
-@media only screen and (max-width:600px) {
+/* @media only screen and (max-width:600px) {
     .add{
         padding: 0.5rem;
         position: fixed;
@@ -77,4 +77,4 @@ body{
         /* left: 0.2rem; */
         /* margin-bottom: 2rem; */
     }
-}
+} */
